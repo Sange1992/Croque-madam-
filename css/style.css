@@ -1,0 +1,22 @@
+body {
+  background-image: url(./img/img-1.jpg);
+  color: white;
+  font-size: large;
+  font-family: "Poller One", cursive;
+}
+hr {
+  color: 000000;
+}
+h2 {
+  color: orange;
+}
+.img-2 {
+  width: 75%;
+}
+
+.img-3 {
+  width: 100%;
+}
+.blok-1 {
+  display: flex;
+}
